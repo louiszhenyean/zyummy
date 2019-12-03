@@ -1,2 +1,2 @@
-# myRecipe
-Tryna code my dishes recipe website while brushing my web programming skills
+# yennyrecipe
+A website to ease my food recipe while brushing my web development skills.  
