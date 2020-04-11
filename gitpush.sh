@@ -1,3 +1,5 @@
 git add .
-git commit -m "update index.html"
+echo Add your commit text: 
+read commit
+git commit -m $commit
 git push
